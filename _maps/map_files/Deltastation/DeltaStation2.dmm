@@ -103174,9 +103174,9 @@
 "drC" = (
 /obj/structure/cable/white,
 /obj/machinery/power/apc{
-	areastring = "/area/science/circuit";
+	areastring = "/area/science/misc_lab/range";
 	dir = 2;
-	name = "Circuitry Lab APC";
+	name = "Testing Range APC";
 	pixel_x = 1;
 	pixel_y = -24
 	},
